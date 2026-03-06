@@ -11,7 +11,7 @@ Welcome to my GitHub Page! I'm a Computer Science Student at Technische Hochschu
 ![Languages](https://skills.syvixor.com/api/icons?perline=7&i=golang,java,python,csharp,bash,qtwidgets,latex,html,css3,javascript)
 
 
-### Frameworks and Tools
+### Frameworks, Tools and Misc.
 ![Techs](https://skills.syvixor.com/api/icons?perline=7&i=archlinux,linux,fedora,apachemaven,docker,insomnia,materialui,redis,spring,springboot,jwt,shadcnui,swagger,gitlab,jenkins,junit4,nmap,obsidian,ubuntu,zabbix,zshell,yarn,kitty,debian,grafana)
 
 
