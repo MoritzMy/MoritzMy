@@ -14,9 +14,9 @@ Welcome to my GitHub Page! I'm a Computer Science Student at Technische Hochschu
 
 
 ### Frameworks, Tools and Misc.
-![Techs](https://skills.syvixor.com/api/icons?perline=7&i=archlinux,linux,fedora,apachemaven,docker,insomnia,materialui,redis,spring,springboot,jwt,shadcnui,swagger,gitlab,jenkins,junit4,nmap,obsidian,ubuntu,zabbix,zshell,yarn,kitty,debian,grafana)
+![Techs](https://skills.syvixor.com/api/icons?perline=7&i=archlinux,fedora,apachemaven,docker,insomnia,materialui,redis,spring,springboot,jwt,shadcnui,swagger,gitlab,jenkins,junit4,obsidian,ubuntu,zabbix,zshell,yarn,kitty,debian,grafana)
 
-*(Arch Linux, Linux, Fedora, Maven, Docker, Insomnia, MUI, Redis, Spring, Springboot, JWT, ShadcnUI, Swagger, GitLab, Jenkins, Junit, nmap, Obsidian, Ubuntu, Zabbix, Zsh, Yarn, Kitty, Debian, Grafana and much much more, but i ran out of icons :P)*
+*(Arch Linux, Fedora, Maven, Docker, Insomnia, MUI, Redis, Spring, Springboot, JWT, ShadcnUI, Swagger, GitLab, Jenkins, Junit, Obsidian, Ubuntu, Zabbix, Zsh, Yarn, Kitty, Debian, Grafana and much much more, but i ran out of icons :P)*
 
 
 
